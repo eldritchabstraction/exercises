@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+# Eclipse project
+.project
+.cproject
+.settings
+
+# CMake
+build
+
+# Misc
+*.eldr
+archive
